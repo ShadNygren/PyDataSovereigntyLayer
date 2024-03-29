@@ -101,7 +101,7 @@ A Data Sovereignty Layer in this GitHub repository encompasses the set of protoc
 
 To generate the actual Python source code for your application from the feature files and step definition files, you'll typically use a testing framework or a tool specifically designed for Behavior-Driven Development (BDD). Here's a general outline of the process:
 
-Choose a BDD Framework: Select a BDD framework that supports Gherkin feature files and step definitions in Python. Some popular choices include Behave, Pytest-BDD, and Radish.
+Choose a BDD Framework: Select a BDD framework that supports Gherkin feature files and step definitions in Python. Some popular choices include Behave, Pytest-BDD, Radish and Lettuce.
 
 Installation: Install the chosen BDD framework and any necessary dependencies.
 
